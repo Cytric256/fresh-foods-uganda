@@ -45,9 +45,7 @@ export default function AdminLoginPage() {
           <button type="submit" className="btn btn-primary w-full">Login</button>
         </form>
 
-        <p className="mt-6 text-xs text-gray-400">
-          Default password: <code className="rounded bg-gray-100 px-2 py-0.5">freshfoods2024</code>
-        </p>
+       
       </div>
     </div>
   );
