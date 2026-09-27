@@ -36,7 +36,7 @@ const KEYS = {
   admin: "ffu_admin_v1",
 };
 
-const ADMIN_PASSWORD = nkajjajimmykiyaga
+const ADMIN_PASSWORD = "nkajjajimmykiyaga";
 
 function load<T>(key: string, fallback: T): T {
   if (typeof window === "undefined") return fallback;
